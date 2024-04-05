@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
        plugin = {
         "pretty",
               "html:target/html_report/report.html",
-               "json:target/jsonReport/report.json"
+               "json:target/jsonReports/report.json"
 
       }
 )
